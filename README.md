@@ -1,4 +1,4 @@
-<h1>Hello, I'm Gibby! <br/><a href="https://github.com/AVGibby/">Github</a>, <a href="https://www.linkedin.com/in/avibby/">LinkedIn</a></h1>
+<h1>Hello, I'm Gibby! <br/><a href="https://github.com/AVGibby/">Github</a>, <a href="https://www.linkedin.com/in/avgibby/">LinkedIn</a></h1>
 
 <h2>👨‍💻 DevSecOps Projects:</h2>
 
